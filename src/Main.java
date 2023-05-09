@@ -81,7 +81,7 @@ public class Main {
        // bez komentáře... :D
  }
     public static void MocDekuji() {
-        System.out.println("Díky moc, pane Přemku. Děkuji, že jste můj učitel, vaše přednáška byl pro mě SUPER :-) VK");
+        System.out.println("Díky moc, pane Přemku. Děkuji, že jste můj učitel, vaše přednáška byla pro mě SUPER :-) VK");
         // bez komentáře... :D
     }
 
