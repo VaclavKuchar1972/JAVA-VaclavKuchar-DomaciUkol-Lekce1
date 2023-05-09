@@ -2,11 +2,11 @@ import java.math.BigDecimal;
 
 public class Main {
     public static void ukol1() {
-        System.out.println("Hello world!");
+        System.out.println("JAVA-VaclavKuchar-DomaciUkol-Lekce1-CastA");
         // tady chyběli uvozovky
     }
     public static void ukol2() {
-        String uzivatel = "Přémo! :-)"; System.out.println(uzivatel);
+        String uzivatel = "Ahoj Přémo! :-)"; System.out.println(uzivatel);
         // tady opět chyběli uvozovky
 
         // K TOMUTO JEŠTĚ ROVNOU DOTAZ: Dal jsem to do jednoho rádku, protože až se bude psát složitější kód,
